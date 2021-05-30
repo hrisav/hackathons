@@ -27,3 +27,12 @@ Problem Category
 --
 
 For the data and objective, it’s evident that this is a Binary Classification Problem in the Tabular Data format.
+
+Score
+--
+
+My Score on Private Leaderboard: 0.8502715471
+
+Top Score: 0.8735155589
+
+Rank: 757/8141
